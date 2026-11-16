@@ -4,6 +4,8 @@ title: 「卡包分析」英格兰联赛中场（杰拉德包）2026-11-09
 permalink: /pack-gerrard/
 ---
 
+![Epic：英格兰联赛中场卡包主视觉](/pack-gerrard.jpg)
+
 卡包：Epic「English League Midfielders」（英格兰联赛中场）
 期间：2026 年 11 月 9 日 – 11 月 16 日，150 人盒（3 Epic + 8 Highlight + 139 现役球员）
 
