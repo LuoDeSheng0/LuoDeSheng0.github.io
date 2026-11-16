@@ -4,7 +4,7 @@ title: 「卡包分析」阿森纳大包（亨利领衔）2026-11-12
 permalink: /pack-arsenal/
 ---
 
-![Big Time & Epic: Arsenal FC 卡包主视觉](/pack-arsenal.jpg)
+![阿森纳大包游戏内界面](/henry-pack-screen.jpg)
 
 Big Time & Epic: Arsenal FC（11 月 12 日上架，约 12 月 3 日结束，以游戏内倒计时为准），250 人包，100 币/抽，10 连 500 币优惠 1 次。
 
