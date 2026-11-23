@@ -6,6 +6,8 @@ order: 5
 permalink: /packs/
 ---
 
+- [「卡包分析」皇马传奇包 2026-11-23](/pack-madrid/) — Epic: Madrid Chamartin B，150 人包，菲戈 103、罗伯托·卡洛斯 102、贝克汉姆 102，三头牌全是各自最强卡。
+
 [![阿森纳大包游戏内界面](/henry-pack-screen.jpg)](/pack-arsenal/)
 
 - [「卡包分析」阿森纳大包（亨利领衔）2026-11-12](/pack-arsenal/) — Big Time & Epic: Arsenal FC，250 人大包，亨利官方展示满级 105，本包头牌。
