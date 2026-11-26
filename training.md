@@ -2,7 +2,7 @@
 layout: page
 title: 加点参考
 menu: true
-order: 6
+order: 7
 permalink: /training/
 ---
 
