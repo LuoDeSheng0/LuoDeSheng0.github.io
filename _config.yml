@@ -1,7 +1,7 @@
 title: 实况很忙
 description: eFootball 资料库：球员技能、球员风格、特殊技能、每周卡包分析、每周POTW分析与球员加点参考
 lang: zh-CN
-url: "https://roddy.loc.cc"
+url: "http://roddy.loc.cc"
 theme: jekyll-theme-hydejack
 accent_image: linear-gradient(135deg, #0a1f44 0%, #123a6d 55%, #0a1f44 100%)
 accent_color: "#f2b01e"
